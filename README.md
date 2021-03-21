@@ -2,4 +2,8 @@
 
 You can try to solve the minesweeper game and see how it doing neural network.
 
-![alt text](https://drive.google.com/uc?id=1zXkPSelkdhZ5kJwQknfDWa8tvRIQDWfD)
+To play this game read manual.pdf
+
+Game process example:
+
+![alt text](https://github.com/violonistahiles/minesweeper/blob/main/docs/images_for_README/complete_nn1.png)
